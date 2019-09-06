@@ -1,7 +1,7 @@
 
 #include "WiFi.h"
 
-const char * password = "WSEXWauz2z";
+const char * password = "INSERT_PASSWORD_HERE";
 
 void scanner(int * n){
 
