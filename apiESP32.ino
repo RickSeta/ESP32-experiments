@@ -54,7 +54,7 @@ void loop() {
       Serial.println(entrada);
   }
 
-  //checaModo(entrada);
+  checaModo(entrada);
   
   delay(1000);
 
